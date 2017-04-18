@@ -1,0 +1,5 @@
+# background-wolfeschlegelsteinhausenbergerdorff
+
+> Hubert Blaine Wolfe­schlegel­stein­hausen­berger­dorff, Sr. (a.k.a. Hubert Wolfstern,[2] Hubert B. Wolfe + 666, Sr.,[3] Hubert Blaine Wolfe+585, Sr.,[4] and Hubert Blaine Wolfe+590, Sr.,[5] among others) is the abbreviated name of a typesetter who has held the record for the longest personal name ever used. Hubert's given name is made up from 26 names, each starting with a different letter of the alphabet in consecutive order; these are followed by an enormously long single-word surname. The exact length and spelling of his name has been a subject of considerable confusion due in part to its various renderings over the years, many of which are plagued by typographical errors.
+
+Hubert Blaine Wolfeschlegelsteinhausenbergerdorff, Sr.. (2017, April 5). In Wikipedia, The Free Encyclopedia. Retrieved 00:24, April 18, 2017, from [https://en.wikipedia.org/w/index.php?title=Hubert_Blaine_Wolfeschlegelsteinhausenbergerdorff,_Sr.&oldid=773979188](https://en.wikipedia.org/w/index.php?title=Hubert_Blaine_Wolfeschlegelsteinhausenbergerdorff,_Sr.&oldid=773979188)

@@ -1,0 +1,82 @@
+[
+  {
+    "fullname": "John Smith",
+    "first": "John",
+    "last": "Smith",
+    "suffix": "",
+    "prefix": "",
+    "_notes": ""
+  },
+  {
+    "fullname": "Bob Jones",
+    "first": "Bob",
+    "last": "Jones",
+    "suffix": "",
+    "prefix": "",
+    "_notes": ""
+  },
+  {
+    "fullname": "Hubert Wolfeschlegelsteinhausenbergerdorff",
+    "first": "Hubert",
+    "last": "Wolfeschlegelsteinhausenbergerdorff",
+    "suffix": "",
+    "prefix": "",
+    "_notes": "Extremely long last names do occur. See background-wolfeschlegelsteinhausenbergerdorff.md ."
+  },
+  {
+    "fullname": "Peaches Honeyblossom Michelle Charlotte Angel Vanessa Geldof",
+    "first": "Peaches Honeyblossom Michelle Charlotte Angel Vanessa",
+    "last": "Geldof",
+    "suffix": "",
+    "prefix": "",
+    "_notes": "Extremely long firstnames occur, for background see background-peaches-honeyblossom.md."
+  },
+  {
+    "fullname": "Li Chen",
+    "first": "Li",
+    "last": "Chen",
+    "suffix": "",
+    "prefix": "",
+    "_notes": "Two letter firstnames are common."
+  },
+  {
+    "fullname": "Jim Bob Jr.",
+    "first": "Jim",
+    "last": "Bob",
+    "suffix": "Jr.",
+    "prefix": "",
+    "_notes": "Suffixes are a valid part of names"
+  },
+  {
+    "fullname": "Mary Jane III",
+    "first": "Mary",
+    "last": "Jane",
+    "suffix": "III",
+    "prefix": "",
+    "_notes": ""
+  },
+  {
+    "fullname": "Jean Paul Jones",
+    "first": "Jean Paul",
+    "last": "Jones",
+    "suffix": "",
+    "prefix": "",
+    "_notes": "Valid first names can contain spaces."
+  },
+  {
+    "fullname": "Jeanne von Claude",
+    "first": "Jeanne",
+    "last": "von Claude",
+    "suffix": "",
+    "prefix": "",
+    "_notes": "Valid last names can contain spaces."
+  },
+  {
+    "fullname": "Fae DiCaprio",
+    "first": "Fae",
+    "last": "DiCaprio",
+    "suffix": "",
+    "prefix": "",
+    "_notes": "Last names can have complex capitalization. Altering the capitalization is incorrect behavior."
+  }
+]
