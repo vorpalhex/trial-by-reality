@@ -1,0 +1,8 @@
+[
+  {
+    "email": "☂123@example.com",
+    "local": "☂123",
+    "domain": "example.com",
+    "_notes": "☂ is a valid UTF8 character and is allowable in the local part."
+  }
+]

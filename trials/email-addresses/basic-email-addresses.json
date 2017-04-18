@@ -1,0 +1,80 @@
+[
+  {
+    "email": "test@example.com",
+    "local": "test",
+    "domain": "example.com",
+    "_notes": ""
+  },
+  {
+    "email": "test.acct@example.com",
+    "local": "test.acct",
+    "domain": "example.com",
+    "_notes": "Dots are valid."
+  },
+  {
+    "email": "test.first!+fail?not@example.com",
+    "local": "test.first!+fail?not",
+    "domain": "example.com",
+    "_notes": "Special characters are valid in local."
+  },
+  {
+    "email": "test!#$%&'*+-/=?^_`{|}~;acct@example.com",
+    "local": "test!#$%&'*+-/=?^_`{|}~;acct",
+    "domain": "example.com",
+    "_notes": "Special characters are valid in local."
+  },
+  {
+    "email": "test123456789@example.com",
+    "local": "test123",
+    "domain": "example.com",
+    "_notes": "Numbers 0 to 9 are valid."
+  },
+  {
+    "email": "\"...test...\"@example.com",
+    "local": "\"...test...\"",
+    "domain": "example.com",
+    "_notes": "Multiple dots can be used if the local portion is quoted. Quoting the local portion is allowed."
+  },
+  {
+    "email": "\"test\"@example.com",
+    "local": "\"test\"",
+    "domain": "example.com",
+    "_notes": "Quoting the local portion is allowed."
+  },
+  {
+    "email": "(commented)test@example.com",
+    "local": "(commented)test",
+    "domain": "example.com",
+    "_notes": "Local portion can contain comment at beginning."
+  },
+  {
+    "email": "test(commented)@example.com",
+    "local": "test(commented)",
+    "domain": "example.com",
+    "_notes": "Local portion can contain comment at the end."
+  },
+  {
+    "email": "test.\"acct for testing\".@example.com",
+    "local": "test(commented)",
+    "domain": "example.com",
+    "_notes": "Local portion can contain quoted sections."
+  },
+  {
+    "email": "JohnsonLee@abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com",
+    "local": "JohnsonLee",
+    "domain": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com",
+    "_notes": "Sample box via abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com"
+  },
+  {
+    "email": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk@example.com",
+    "local": "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk",
+    "domain": "example.com",
+    "_notes": "This local technically violates the RFC but has been seen in the wild in use by bouncers"
+  },
+  {
+    "email": "a@a.test",
+    "local": "a",
+    "domain": "a.test",
+    "_notes": "This is not the shortest possible email address, but it is the shortest possible one using a qualified testing domain."
+  }
+]
